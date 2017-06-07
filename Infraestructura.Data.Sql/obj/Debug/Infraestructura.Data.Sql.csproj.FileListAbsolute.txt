@@ -1,0 +1,7 @@
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Infraestructura.Data.Sql\bin\Debug\Infraestructura.Data.Sql.dll
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Infraestructura.Data.Sql\bin\Debug\Infraestructura.Data.Sql.pdb
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Infraestructura.Data.Sql\bin\Debug\Dominio.Entidades.dll
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Infraestructura.Data.Sql\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Infraestructura.Data.Sql\obj\Debug\Infraestructura.Data.Sql.csprojResolveAssemblyReference.cache
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Infraestructura.Data.Sql\obj\Debug\Infraestructura.Data.Sql.dll
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Infraestructura.Data.Sql\obj\Debug\Infraestructura.Data.Sql.pdb

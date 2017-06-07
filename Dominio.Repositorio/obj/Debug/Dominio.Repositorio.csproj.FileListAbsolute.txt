@@ -1,0 +1,9 @@
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.dll
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.pdb
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Repositorio\bin\Debug\Dominio.Entidades.dll
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Repositorio\bin\Debug\Infraestructura.Data.Sql.dll
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Repositorio\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Repositorio\bin\Debug\Infraestructura.Data.Sql.pdb
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.dll
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.pdb

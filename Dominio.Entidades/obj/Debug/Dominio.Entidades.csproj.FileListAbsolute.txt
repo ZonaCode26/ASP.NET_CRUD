@@ -1,0 +1,5 @@
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\Users\Alex.ae\Desktop\Practicar_Servicios_Web\Ser_Web_01\Ser_Web_CRUD_01\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
